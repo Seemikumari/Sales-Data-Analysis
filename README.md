@@ -7,3 +7,4 @@ Analysed E-commerce sales Data created an Interractive Dashboard using PowerBI
   parameters for visualizations.
 * Used different types of customized visualizations (bar chart, pie chart, donut chart, clustered 
   bar chart, scatter chart, line chart, area chart, slicers, etc).
+![Alt text](URL)
